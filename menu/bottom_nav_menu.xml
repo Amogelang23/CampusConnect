@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navHome"
+        android:icon="@mipmap/ic_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/navChat"
+        android:icon="@mipmap/ic_chat"
+        android:title="Chat"/>
+    <item
+        android:id="@+id/navCreatePost"
+        android:icon="@mipmap/ic_add"
+        android:title="Post"/>
+    <item
+        android:id="@+id/navFriends"
+        android:icon="@mipmap/ic_friends"
+        android:title="Friends"/>
+    <item
+        android:id="@+id/navProfile"
+        android:icon="@mipmap/ic_profile"
+        android:title="Profile"/>
+</menu>
